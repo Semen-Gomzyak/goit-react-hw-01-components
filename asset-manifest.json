@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Semen-Gomzyak/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Semen-Gomzyak/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Semen-Gomzyak/goit-react-hw-01-components/static/css/main.5617bf51.css",
+    "main.js": "/Semen-Gomzyak/goit-react-hw-01-components/static/js/main.cba8328f.js",
     "index.html": "/Semen-Gomzyak/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Semen-Gomzyak/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Semen-Gomzyak/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.5617bf51.css.map": "/Semen-Gomzyak/goit-react-hw-01-components/static/css/main.5617bf51.css.map",
+    "main.cba8328f.js.map": "/Semen-Gomzyak/goit-react-hw-01-components/static/js/main.cba8328f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.5617bf51.css",
+    "static/js/main.cba8328f.js"
   ]
 }
