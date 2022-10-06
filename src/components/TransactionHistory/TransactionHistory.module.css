@@ -1,0 +1,18 @@
+.transactionhistory {
+    text-align: center;
+    margin: 0 auto;
+    min-width: 300px;
+    background-color: transparent;
+}
+
+.tablehead {
+    background-color: #40a6ff;
+}
+
+.tablerow:nth-child(even) {
+    background-color: #F7F7F7;
+}
+
+.tablerow:nth-child(odd) {
+    background-color: #dedede;
+}
